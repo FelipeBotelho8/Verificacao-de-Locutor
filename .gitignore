@@ -1,0 +1,4 @@
+*.pkl
+modelo_mfcc/
+audios/
+__pycache__/
