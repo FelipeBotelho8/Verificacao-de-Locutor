@@ -1,4 +1,5 @@
 *.pkl
+teste.wav
 modelo_mfcc/
 audios/
 __pycache__/
