@@ -1,6 +1,8 @@
 *.pkl
 *.png
 teste.wav
+modelo_mfcc2/
 modelo_mfcc/
+flagged/
 audios/
 __pycache__/
